@@ -1,2 +1,3 @@
-# 404-not-found
-simple challenge form devchallenges.io
+Simple 404 not found page.
+
+It's challenge from devchallenges.io
